@@ -12,13 +12,13 @@ RSpec.describe Party, type: :model do
   end
 
   before(:each) do
-    # @instance_var = Something.create!(input)
+
   end
 
   describe 'class methods' do
     describe '#search' do
       it 'returns partial matches' do
-       #method goes here
+
       end
     end
   end
